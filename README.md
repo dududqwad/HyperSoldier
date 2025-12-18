@@ -22,15 +22,24 @@ What it does
 
 ## How to try it
 
-After installing the app on Meta Quest, you need to also install the companion app, HyperCompanion, on an Android mobile device. The latest release is available [here](https://github.com/FilipeLopesPires/HyperSoldier/releases/latest).
+> [!NOTE]
+> If you are a judge of [Meta Horizon Start Developer Competition](https://start-developer-competition.devpost.com/), please follow the steps below to install v1.0.0 of HyperSoldier and HyperCompanion, as that is the one released prior to the competition deadline:
+> - Download HyperCompanion APK v1.0.0 from this repo's [release channel](https://github.com/FilipeLopesPires/HyperSoldier/releases/tag/v1.0.0) and install it on an Android device
+> - Install HyperSoldier on your Meta Quest 3/3S using this [Alpha channel invite link](https://www.meta.com/s/7wxYQbsf9)
+
+Download latest HyperSoldier APK from the release section (check latest [here](https://github.com/FilipeLopesPires/HyperSoldier/releases/latest)) and install it on your Meta Quest 3/3S using **adb** or, alternatively, install it using this [Beta channel invite link](https://www.meta.com/s/1UYDedR2KT).
+
+After installing the app on your headset, you need to also install the companion app, HyperCompanion, on an Android mobile device. APK available also in release section. 
 
 Once installed, provide location and camera access, enable your GPS and start broadcasting. Make sure both your Android device and your Meta Quest are connected to the same network. HyperSoldier assumes that the Android device will be placed behind your head, pointing back, this ensures proper compass and rear camera view behavior. It is recommended that you first start HyperSoldier on your Quest and only then start HyperCompanion on your mobile device.
 
-To toggle the rear camera view in the HUD, nod your head vertically. To toggle the map as well as threat detection, nod your head horizontally. Note that world maps for tile mapping do not exist for free at a good enough resolution and the resources that are publicly accessible end up taking significant space (in the order of tens of GB and more). So, for this release, only Portugal (my home country) has map coverage - all other locations will show up blank in the HUD's map.
+When inside HyperSoldier, toggle the rear camera view in the HUD by nodding your head vertically. Similarly, toggle the map as well as threat detection by nodding your head horizontally. 
+
+Note that world maps for tile mapping do not exist for free at a good enough resolution and the resources that are publicly accessible end up taking significant space (in the order of tens of GB and more). So, for this release, only Portugal (my home country) has map coverage - all other locations will show up blank in the HUD's map.
 
 ## How I built it
 
-The main application is built with Unity, targeting Meta Quest 3/3S. The companion application is built with Kotlin, targeting Android. The wearable band application is built with Kotlin, targeting WearOS (under development, not included in this release).
+The main application is built with Unity, targeting Meta Quest 3/3S. The companion application is built with Kotlin, targeting Android. The wearable band application is built with Kotlin, targeting WearOS (under development, not included yet).
 
 These apps involve the use of the following technologies: Unity Inference, Meta SDK, Meta Camera Access API, OpenXR, WebSocket, WebRTC, UDP, and more.
 
