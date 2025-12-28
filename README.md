@@ -18,7 +18,6 @@ The video recordings used to produce the experience's teaser video and demo cont
 Inspired by Anduril's [EagleEye](https://www.anduril.com/article/anduril-s-eagleeye-puts-mission-command-and-ai-directly-into-the-warfighter-s-helmet/) ([video showcase](https://www.youtube.com/watch?v=x9B02pFKpJo)), Palantir's collaboration with Meta on [IC2](https://www.palantir.com/platforms/gotham/) ([video showcase](https://www.youtube.com/watch?v=UiiqiaUBAL8), [presentation](https://www.palantir.com/assets/xrfr7uokpv1b/1jgsB2RjIL29TYOTF8R1BU/302fdc9ae97ce158853c0c688aa9e2f2/Mixed_Reality_Applications.pdf) and [more](https://www.palantir.com/offerings/mixed-reality/)), and Rivet's [Hard Spec](www.rivet.us/rivet-hard-spec).
 
 Quentin Valembois' recreation of Meta's new AI glasses on Quest (original post [here](https://www.linkedin.com/posts/quentinvalembois_i-recreated-metas-new-ai-glasses-on-my-quest-activity-7381349076271022080-tvFJ)) was what made me believe something similar to his work could be pulled off to prove that today's off-the-shelf commercial hardware and software can already be used to prototype high impact, multi-input human enhancing services.
-What it does
 
 ## How to try it
 
